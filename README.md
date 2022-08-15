@@ -19,7 +19,7 @@ to compare the intervention's effects on mean daily sedentary, standing, and ste
 Description of Dataset "SampleMissing" that accompanies SAS code: 
 
 "SampleMissing.csv" (CSV Format) and "samplemissing.sas7bdat" (SAS 9.4 Format) contain baseline and month-12 follow-up 
-data on three physical activity outcomes of interest (mean daily Sedentary, standing and stepping hours) from the complete case sample (N=42) of 
+data on three physical activity outcomes of interest (mean daily sedentary, standing and stepping hours) from the complete case sample (N=42) of 
 a cluster RCT titled, "Modifying the Workplace to Decrease Sedentary Behavior and Improve Health", where 
 subjects were randomized into one of three study conditions: seated control (N=13), sit-to-stand desk (N=13), 
 or treadmill desk (N=16) and the objective was to study the effects of these active workstations on physical 
